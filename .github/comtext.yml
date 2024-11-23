@@ -1,0 +1,11 @@
+vuepress:
+  title: "Тестовый сайт"
+  base: "/"
+  revisionmeProjectId: ""
+
+pages:
+  - index.md
+
+books:
+  - source/book01.md
+  - source/book02.md
